@@ -1,18 +1,19 @@
 :root {
-    --primary-color: #6CCBCD;
-    --primary-dark: #42B5B8;
-    --secondary-color: #8A7A77;
-    --accent-color: #183AD2;
-    --accent-dark: #102BA8;
-    --background-color: #F5F8FA;
+    --primary-color: #20B8B0;
+    --primary-dark: #159A96;
+    --secondary-color: #64748B;
+    --accent-color: #F4A261;
+    --accent-dark: #E88742;
+    --background-color: #F4F7FA;
     --white-color: #FFFFFF;
-    --text-color: #18212F;
-    --muted-color: #3d4044;
-    --border-color: #E5EAF0;
-    --dark-color: #101827;
-    --dark-secondary: #172337;
+    --text-color: #182B3A;
+    --muted-color: #64748B;
+    --border-color: #E2E8F0;
+    --dark-color: #102A43;
+    --dark-secondary: #193B56;
+    --font:"cairo", sans-serif;
     --transition: all 0.35s ease;
-    --shadow: 0 20px 55px rgba(16, 24, 39, 0.18);
+    --shadow: 0 20px 55px rgba(16, 42, 67, 0.12);
 }
 
 html {
@@ -22,10 +23,10 @@ html {
 
 body {
     margin: 0;
-    font-family: "cairo", sans-serif;
     color: var(--text-color);
     overflow-x: hidden;
-}
+    font-family: var(--font);
+ }
 
 a {
     text-decoration: none;
@@ -962,22 +963,7 @@ a {
     }
 }
 
-:root {
-    --primary-color: #6CCBCD;
-    --primary-dark: #42B5B8;
-    --secondary-color: #8A7A77;
-    --accent-color: #183AD2;
-    --accent-dark: #102BA8;
-    --background-color: #F5F8FA;
-    --white-color: #FFFFFF;
-    --text-color: #18212F;
-    --muted-color: #3d4044;
-    --border-color: #E5EAF0;
-    --dark-color: #101827;
-    --dark-secondary: #172337;
-    --transition: all 0.35s ease;
-    --shadow: 0 20px 55px rgba(16, 24, 39, 0.18);
-}
+
 
 .arab-about-section {
     padding: 85px 0;
@@ -1500,23 +1486,6 @@ a {
     .arab-about-phone {
         justify-content: center;
     }
-}
-
-:root {
-    --primary-color: #6CCBCD;
-    --primary-dark: #42B5B8;
-    --secondary-color: #8A7A77;
-    --accent-color: #183AD2;
-    --accent-dark: #102BA8;
-    --background-color: #F5F8FA;
-    --white-color: #FFFFFF;
-    --text-color: #18212F;
-    --muted-color: #3d4044;
-    --border-color: #E5EAF0;
-    --dark-color: #101827;
-    --dark-secondary: #172337;
-    --transition: all 0.35s ease;
-    --shadow: 0 20px 55px rgba(16, 24, 39, 0.18);
 }
 
 .main-categories-section {
@@ -2433,22 +2402,7 @@ a {
 }
 
 
-:root {
-    --primary-color: #6CCBCD;
-    --primary-dark: #42B5B8;
-    --secondary-color: #8A7A77;
-    --accent-color: #183AD2;
-    --accent-dark: #102BA8;
-    --background-color: #F5F8FA;
-    --white-color: #FFFFFF;
-    --text-color: #18212F;
-    --muted-color: #3d4044;
-    --border-color: #E5EAF0;
-    --dark-color: #101827;
-    --dark-secondary: #172337;
-    --transition: all 0.35s ease;
-    --shadow: 0 20px 55px rgba(16, 24, 39, 0.18);
-}
+
 
 .work-steps-section {
     position: relative;
@@ -3497,22 +3451,7 @@ a.why-us-card-bottom:hover {
      
 }
 
-:root {
-    --primary-color: #6CCBCD;
-    --primary-dark: #42B5B8;
-    --secondary-color: #8A7A77;
-    --accent-color: #183AD2;
-    --accent-dark: #102BA8;
-    --background-color: #F5F8FA;
-    --white-color: #FFFFFF;
-    --text-color: #18212F;
-    --muted-color: #3d4044;
-    --border-color: #E5EAF0;
-    --dark-color: #101827;
-    --dark-secondary: #172337;
-    --transition: all 0.35s ease;
-    --shadow: 0 20px 55px rgba(16, 24, 39, 0.18);
-}
+
 
 .faq-section {
     position: relative;
@@ -3619,8 +3558,7 @@ a.why-us-card-bottom:hover {
             rgba(11, 22, 40, 0.96) 0%,
             rgba(11, 22, 40, 0.72) 46%,
             rgba(11, 22, 40, 0.1) 100%
-        ),
-        url("../images/why-us-bg.png");
+        );
     background-size: cover;
     background-position: center;
     box-shadow: var(--shadow);
@@ -5102,10 +5040,6 @@ body.gallery-lightbox-open {
     overflow: hidden;
     padding: 100px 0;
     background-color: var(--dark-color);
-    background-image: url("../images/contact-bg.jpg");
-    background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;
 }
 
 .arab-contact-overlay {
