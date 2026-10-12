@@ -420,4 +420,22 @@ document.addEventListener("DOMContentLoaded", () => {
         offset: 100,
         delay: 0
     });
+        const mapSection = document.querySelector(".arab-map-section");
+
+    if (!mapSection) return;
+
+    const mapCard = mapSection.querySelector(".arab-map-card");
+
+    if (mapCard) {
+        mapCard.addEventListener("pointermove", function (event) {
+            if (window.innerWidth <= 767) return;
+
+            const rect = mapCard.getBoundingClientRect();
+            const x = event.clientX - rect.left;
+            const y = event.clientY - rect.top;
+
+            mapCard.style.setProperty("--pointer-x", `${x}px`);
+            mapCard.style.setProperty("--pointer-y", `${y}px`);
+        });
+    }
 });
