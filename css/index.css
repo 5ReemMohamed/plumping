@@ -97,7 +97,7 @@ a {
 
 .brand-copy small {
     color: var(--secondary-color);
-    font-size: 12px;
+    font-size: 16px;
     font-weight: 600;
 }
 
@@ -112,7 +112,7 @@ a {
     position: relative;
     padding: 10px 0;
     color: var(--secondary-color);
-    font-size: 14px;
+    font-size: 16px;
     font-weight: 700;
     white-space: nowrap;
     transition: var(--transition);
@@ -150,7 +150,7 @@ a {
     background: var(--accent-color);
     border: 1px solid var(--accent-color);
     border-radius: 9px;
-    font-size: 13px;
+    font-size: 16px;
     font-weight: 800;
     white-space: nowrap;
     transition: var(--transition);
@@ -343,7 +343,7 @@ a {
     gap: 11px;
     margin-bottom: 28px;
     color: var(--background-color);
-    font-size: 14px;
+    font-size: 16px;
     font-weight: 700;
 }
 
@@ -362,7 +362,7 @@ a {
     max-width: 590px;
     margin: 0 0 23px;
     color: var(--white-color);
-    font-size: clamp(42px, 5.1vw, 68px);
+    font-size: clamp(42px, 5.1vw, 70px);
     line-height: 1.4;
     letter-spacing: -1.5px;
     font-weight: 900;
@@ -377,7 +377,7 @@ a {
     max-width: 500px;
     margin: 0 0 32px;
     color: #fff;
-    font-size: 16px;
+    font-size: 18px;
     line-height: 2.15;
     font-weight: 600;
 }
@@ -400,7 +400,7 @@ a {
     background: var(--accent-color);
     border: 1px solid var(--accent-color);
     border-radius: 8px;
-    font-size: 14px;
+    font-size: 16px;
     font-weight: 900;
     transition: var(--transition);
 }
@@ -458,12 +458,12 @@ a {
 
 .call-copy small {
     color: var(--white-color);
-    font-size: 11px;
+    font-size: 16px;
 }
 
 .call-copy strong {
     color: var(--white-color);
-    font-size: 14px;
+    font-size: 16px;
     font-weight: 800;
 }
 
@@ -485,7 +485,7 @@ a {
     align-items: center;
     gap: 11px;
     color: var(--white-color);
-    font-size: 12px;
+    font-size: 16px;
     font-weight: 600;
 }
 
@@ -563,7 +563,7 @@ a {
     padding: 12px 15px;
     color: var(--white-color);
     background: var(--accent-color);
-    font-size: 12px;
+    font-size: 16px;
     font-weight: 800;
     border-radius: 20px;
 }
@@ -585,7 +585,7 @@ a {
     gap: 10px;
     color: var(--white-color);
     direction: ltr;
-    font-size: 10px;
+    font-size: 16px;
     font-weight: 800;
     letter-spacing: 1px;
 }
@@ -638,7 +638,7 @@ a {
 
 .product-card-copy small {
     color: var(--muted-color);
-    font-size: 11px;
+    font-size: 16px;
     font-weight: 600;
 }
 
@@ -705,7 +705,7 @@ a {
 
 .bottom-caption {
     color: var(--white-color);
-    font-size: 12px;
+    font-size: 16px;
     font-weight: 700;
     white-space: nowrap;
 }
@@ -722,7 +722,7 @@ a {
     align-items: center;
     gap: 9px;
     color: var(--white-color);
-    font-size: 12px;
+    font-size: 16px;
     font-weight: 700;
     white-space: nowrap;
     transition: var(--transition);
@@ -742,7 +742,7 @@ a {
     align-items: center;
     gap: 10px;
     color: var(--white-color);
-    font-size: 12px;
+    font-size: 16px;
     font-weight: 800;
     white-space: nowrap;
 }
@@ -1087,7 +1087,7 @@ a {
     gap: 12px;
     margin-bottom: 24px;
     color: var(--accent-color);
-    font-size: 14px;
+    font-size: 16px;
     font-weight: 700;
     letter-spacing: 1.5px;
 }
@@ -1115,7 +1115,7 @@ a {
     max-width: 650px;
     margin-bottom: 30px;
     color: var(--muted-color);
-    font-size: 17px;
+    font-size: 18px;
     line-height: 2;
     font-weight: 500;
 }
@@ -1164,7 +1164,7 @@ a {
 .arab-feature-content p {
     margin: 0;
     color: var(--muted-color);
-    font-size: 15px;
+    font-size: 16px;
     line-height: 1.9;
     font-weight: 500;
 }
@@ -1188,7 +1188,7 @@ a {
     border-radius: 10px;
     background: var(--accent-color);
     color: var(--white-color);
-    font-size: 15px;
+    font-size: 16px;
     font-weight: 700;
     text-decoration: none;
     transition: var(--transition);
@@ -1245,7 +1245,7 @@ a {
 .arab-phone-details small {
     margin-bottom: 5px;
     color: var(--muted-color);
-    font-size: 12px;
+    font-size: 16px;
 }
 
 .arab-phone-details strong {
@@ -1328,7 +1328,7 @@ a {
 
 .arab-image-caption div > span {
     color: rgba(255, 255, 255, 0.9);
-    font-size: 13px;
+    font-size: 16px;
 }
 
 .arab-about-inset {
@@ -1389,19 +1389,19 @@ a {
 .arab-location-card small {
     margin-bottom: 5px;
     color: var(--secondary-color);
-    font-size: 12px;
+    font-size: 16px;
 }
 
 .arab-location-card strong {
     margin-bottom: 4px;
     color: var(--dark-color);
-    font-size: 12px;
+    font-size: 16px;
     line-height: 1.7;
 }
 
 .arab-location-card div > span {
     color: var(--muted-color);
-    font-size: 12px;
+    font-size: 16px;
 }
 
 .arab-opening-card {
@@ -1448,7 +1448,7 @@ a {
     gap: 12px;
     margin-top: 12px;
     color: rgba(255, 255, 255, 0.9);
-    font-size: 13px;
+    font-size: 16px;
 }
 
 .arab-opening-row strong,
@@ -1647,7 +1647,7 @@ a {
     gap: 11px;
     margin-bottom: 22px;
     color: var(--accent-color);
-    font-size: 13px;
+    font-size: 16px;
     font-weight: 800;
     letter-spacing: 1.3px;
 }
@@ -1662,7 +1662,7 @@ a {
     background: var(--white-color);
     color: var(--accent-color);
     box-shadow: 0 6px 18px rgba(36, 70, 83, 0.07);
-    font-size: 17px;
+    font-size: 18px;
 }
 
 .categories-heading h2 {
@@ -1807,7 +1807,7 @@ a {
     gap: 7px;
     margin-bottom: 12px;
     color: var(--accent-color);
-    font-size: 12px;
+    font-size: 14px;
     font-weight: 800;
 }
 
@@ -1822,7 +1822,7 @@ a {
 .category-card p {
     margin: 0 0 22px;
     color: var(--muted-color);
-    font-size: 14px;
+    font-size: 16px;
     line-height: 1.95;
 }
 
@@ -2096,7 +2096,7 @@ a {
     border-radius: 50px;
     background: rgba(185, 229, 234, 0.35);
     color: var(--accent-color);
-    font-size: 14px;
+    font-size: 16px;
     font-weight: 800;
 }
 
@@ -2219,7 +2219,7 @@ a {
 
 .supply-number {
     color: #A2B3BB;
-    font-size: 14px;
+    font-size: 16px;
     font-weight: 900;
     letter-spacing: 2px;
     transition: var(--transition);
@@ -2281,7 +2281,7 @@ a {
 .supply-card-content p {
     margin: 0 0 25px;
     color: var(--muted-color);
-    font-size: 14px;
+    font-size: 16px;
     line-height: 2;
 }
 
@@ -2295,7 +2295,7 @@ a {
     padding-top: 17px;
     border-top: 1px solid var(--border-color);
     color: var(--accent-color);
-    font-size: 13px;
+    font-size: 16px;
     font-weight: 800;
     text-decoration: none;
     transition: var(--transition);
@@ -2388,7 +2388,7 @@ a {
 .supplies-cta-text p {
     margin: 0;
     color: #D3E0E4;
-    font-size: 14px;
+    font-size: 16px;
     line-height: 1.9;
 }
 
@@ -2405,7 +2405,7 @@ a {
     border-radius: 13px;
     background: var(--primary-color);
     color: var(--dark-color);
-    font-size: 14px;
+    font-size: 16px;
     font-weight: 900;
     text-decoration: none;
     transition: var(--transition);
@@ -2594,7 +2594,7 @@ a {
     border-radius: 50px;
     background: rgba(185, 229, 234, 0.35);
     color: var(--accent-color);
-    font-size: 14px;
+    font-size: 16px;
     font-weight: 800;
 }
 
@@ -2634,7 +2634,7 @@ a {
     max-width: 660px;
     margin: 0 auto;
     color: var(--muted-color);
-    font-size: 15px;
+    font-size: 16px;
     line-height: 2.1;
 }
 
@@ -2749,7 +2749,7 @@ a {
     border-radius: 50%;
     background: var(--dark-color);
     color: var(--white-color);
-    font-size: 10px;
+    font-size: 13px;
     font-weight: 900;
     box-shadow: 0 4px 12px rgba(36, 70, 83, 0.16);
 }
@@ -2763,7 +2763,7 @@ a {
     display: block;
     margin-bottom: 9px;
     color: var(--accent-color);
-    font-size: 12px;
+    font-size: 14px;
     font-weight: 800;
 }
 
@@ -2783,8 +2783,9 @@ a {
 .work-step-content p {
     margin: 0 0 23px;
     color: var(--muted-color);
-    font-size: 13px;
+    font-size: 16px;
     line-height: 2.05;
+    font-weight: 600;
 }
 
 .work-step-bottom {
@@ -2795,7 +2796,7 @@ a {
     padding-top: 17px;
     border-top: 1px solid var(--border-color);
     color: var(--secondary-color);
-    font-size: 11px;
+    font-size: 13px;
     font-weight: 800;
 }
 
@@ -2866,7 +2867,7 @@ a {
 .work-steps-footer-text p {
     margin: 0;
     color: #D0E0E4;
-    font-size: 13px;
+    font-size: 16px;
     line-height: 1.9;
 }
 
@@ -2883,7 +2884,7 @@ a {
     border-radius: 13px;
     background: var(--primary-color);
     color: var(--dark-color);
-    font-size: 13px;
+    font-size: 16px;
     font-weight: 900;
     text-decoration: none;
     transition: var(--transition);
@@ -3320,9 +3321,10 @@ a {
     flex: 1;
     margin: 0 0 23px;
     color: var(--muted-color);
-    font-size: 13px;
+    font-size: 16px;
     line-height: 2.1;
     text-align: center;
+    font-weight: 500;
 }
 
 .why-us-card-bottom {
@@ -3336,7 +3338,7 @@ a {
     padding-top: 14px;
     border-top: 1px solid var(--border-color);
     color: var(--accent-color);
-    font-size: 12px;
+    font-size: 14px;
     font-weight: 800;
     text-align: center;
     text-decoration: none;
@@ -3410,7 +3412,7 @@ a.why-us-card-bottom:hover {
 .why-us-footer-content p {
     margin: 0;
     color: rgba(255, 255, 255, 0.8);
-    font-size: 13px;
+    font-size: 16px;
     line-height: 1.9;
 }
 
@@ -3736,7 +3738,7 @@ a.why-us-card-bottom:hover {
     display: block;
     margin-bottom: 10px;
     color: var(--primary-color);
-    font-size: 13px;
+    font-size: 16px;
     font-weight: 800;
 }
 
@@ -3752,7 +3754,7 @@ a.why-us-card-bottom:hover {
     max-width: 330px;
     margin: 0;
     color: rgba(255, 255, 255, 0.85);
-    font-size: 14px;
+    font-size: 16px;
     line-height: 2;
 }
 
@@ -3807,14 +3809,14 @@ a.why-us-card-bottom:hover {
 .faq-contact-info h4 {
     margin: 0 0 5px;
     color: var(--dark-color);
-    font-size: 15px;
+    font-size: 16px;
     font-weight: 900;
 }
 
 .faq-contact-info p {
     margin: 0;
     color: var(--muted-color);
-    font-size: 11px;
+    font-size: 16px;
     line-height: 1.9;
 }
 
@@ -3847,7 +3849,7 @@ a.why-us-card-bottom:hover {
     border-radius: 16px;
     background: rgba(185, 229, 234, 0.25);
     color: var(--muted-color);
-    font-size: 12px;
+    font-size: 14px;
     line-height: 1.9;
 }
 
@@ -3911,7 +3913,7 @@ a.why-us-card-bottom:hover {
     border-radius: 12px;
     background: var(--background-color);
     color: var(--secondary-color);
-    font-size: 11px;
+    font-size: 16px;
     font-weight: 900;
     transition: var(--transition);
 }
@@ -3923,7 +3925,7 @@ a.why-us-card-bottom:hover {
 
 .faq-question-text {
     flex: 1;
-    font-size: 14px;
+    font-size: 16px;
     font-weight: 800;
     line-height: 1.9;
 }
@@ -3968,8 +3970,9 @@ a.why-us-card-bottom:hover {
     overflow: hidden;
     padding: 0 23px 0 75px;
     color: var(--muted-color);
-    font-size: 13px;
+    font-size: 16px;
     line-height: 2.1;
+    font-weight: 500;
 }
 
 .faq-item.active .faq-answer {
@@ -4149,7 +4152,7 @@ a.why-us-card-bottom:hover {
     border-radius: 50px;
     background: rgba(108, 203, 205, 0.13);
     color: var(--accent-color);
-    font-size: 13px;
+    font-size: 16px;
     font-weight: 800;
 }
 
@@ -4174,7 +4177,7 @@ a.why-us-card-bottom:hover {
     max-width: 680px;
     margin: 0 auto;
     color: var(--muted-color);
-    font-size: 15px;
+    font-size: 16px;
     line-height: 2.1;
 }
 
@@ -4251,7 +4254,7 @@ a.why-us-card-bottom:hover {
     border-radius: 12px;
     background: rgba(16, 24, 39, 0.78);
     color: var(--white-color);
-    font-size: 11px;
+    font-size: 14px;
     font-weight: 800;
     backdrop-filter: blur(10px);
     -webkit-backdrop-filter: blur(10px);
@@ -4309,7 +4312,7 @@ a.why-us-card-bottom:hover {
 
 .gallery-product-label {
     color: var(--secondary-color);
-    font-size: 10px;
+    font-size: 14px;
     font-weight: 800;
     letter-spacing: 0.5px;
 }
@@ -4342,7 +4345,7 @@ a.why-us-card-bottom:hover {
     flex: 1;
     margin: 0 0 20px;
     color: var(--muted-color);
-    font-size: 12px;
+    font-size: 16px;
     line-height: 2.1;
 }
 
@@ -4357,7 +4360,7 @@ a.why-us-card-bottom:hover {
     border-radius: 12px;
     background: rgba(108, 203, 205, 0.1);
     color: var(--accent-color);
-    font-size: 12px;
+    font-size: 14px;
     font-weight: 900;
     text-decoration: none;
     transition: var(--transition);
@@ -4421,7 +4424,7 @@ a.why-us-card-bottom:hover {
 .gallery-bottom-text p {
     margin: 0;
     color: rgba(255, 255, 255, 0.73);
-    font-size: 12px;
+    font-size: 16px;
     line-height: 1.9;
 }
 
@@ -4436,7 +4439,7 @@ a.why-us-card-bottom:hover {
     border-radius: 13px;
     background: var(--primary-color);
     color: var(--dark-color);
-    font-size: 12px;
+    font-size: 16px;
     font-weight: 900;
     text-decoration: none;
     transition: var(--transition);
@@ -4756,7 +4759,7 @@ body.gallery-lightbox-open {
     border-radius: 50px;
     color: var(--primary-color);
     background: rgba(185, 229, 234, 0.09);
-    font-size: 14px;
+    font-size: 16px;
     font-weight: 700;
     letter-spacing: 0.2px;
 }
@@ -4770,7 +4773,7 @@ body.gallery-lightbox-open {
     border-radius: 50%;
     color: var(--dark-color);
     background: var(--primary-color);
-    font-size: 14px;
+    font-size: 16px;
 }
 
 .plumbing-cta-title {
@@ -4817,7 +4820,7 @@ body.gallery-lightbox-open {
     border: 1px solid transparent;
     border-radius: 15px;
     text-decoration: none;
-    font-size: 15px;
+    font-size: 16px;
     font-weight: 800;
     transition: var(--transition);
 }
@@ -4893,7 +4896,7 @@ body.gallery-lightbox-open {
 
 .plumbing-cta-arrow {
     margin-right: 7px;
-    font-size: 13px;
+    font-size: 16px;
     transition: transform 0.3s ease;
 }
 
@@ -4915,13 +4918,13 @@ body.gallery-lightbox-open {
     align-items: center;
     gap: 9px;
     color: rgba(255, 255, 255, 0.83);
-    font-size: 13px;
+    font-size: 15px;
     font-weight: 600;
 }
 
 .plumbing-cta-trust-item i {
     color: var(--primary-color);
-    font-size: 15px;
+    font-size: 16px;
 }
 
 .plumbing-cta-visual {
@@ -4996,7 +4999,7 @@ body.gallery-lightbox-open {
     display: block;
     margin-bottom: 12px;
     color: var(--primary-color);
-    font-size: 13px;
+    font-size: 16px;
     font-weight: 800;
 }
 
@@ -5011,7 +5014,7 @@ body.gallery-lightbox-open {
 .plumbing-cta-visual-card p {
     margin: 0;
     color: rgba(255, 255, 255, 0.7);
-    font-size: 14px;
+    font-size: 16px;
     line-height: 1.9;
 }
 
@@ -5260,7 +5263,7 @@ body.gallery-lightbox-open {
     border-radius: 50px;
     color: var(--primary-color);
     background: rgba(185, 229, 234, 0.09);
-    font-size: 14px;
+    font-size: 16px;
     font-weight: 800;
 }
 
@@ -5336,7 +5339,7 @@ body.gallery-lightbox-open {
 .arab-contact-info-header p {
     margin: 0;
     color: rgba(255, 255, 255, 0.68);
-    font-size: 13px;
+    font-size: 16px;
     line-height: 1.8;
 }
 
@@ -5390,7 +5393,7 @@ a.arab-contact-method:hover {
 
 .arab-contact-method-content small {
     color: var(--primary-color);
-    font-size: 12px;
+    font-size: 16px;
     font-weight: 700;
 }
 
@@ -5404,14 +5407,14 @@ a.arab-contact-method:hover {
 
 .arab-contact-method-content > span {
     color: rgba(255, 255, 255, 0.68);
-    font-size: 12px;
+    font-size: 16px;
     line-height: 1.8;
 }
 
 .arab-contact-method-arrow {
     flex-shrink: 0;
     color: rgba(255, 255, 255, 0.5);
-    font-size: 13px;
+    font-size: 16px;
     transition: var(--transition);
 }
 
@@ -5457,7 +5460,7 @@ a.arab-contact-method:hover {
 .arab-contact-note p {
     margin: 0;
     color: rgba(255, 255, 255, 0.68);
-    font-size: 12px;
+    font-size: 14px;
     line-height: 1.9;
 }
 
@@ -5499,7 +5502,7 @@ a.arab-contact-method:hover {
     display: inline-block;
     margin-bottom: 10px;
     color: var(--accent-color);
-    font-size: 13px;
+    font-size: 16px;
     font-weight: 900;
 }
 
@@ -5514,7 +5517,7 @@ a.arab-contact-method:hover {
 .arab-contact-form-heading p {
     margin: 0;
     color: var(--muted-color);
-    font-size: 14px;
+    font-size: 16px;
     line-height: 1.9;
 }
 
@@ -5522,7 +5525,7 @@ a.arab-contact-method:hover {
     display: block;
     margin-bottom: 9px;
     color: var(--text-color);
-    font-size: 13px;
+    font-size: 16px;
     font-weight: 800;
 }
 
@@ -5555,7 +5558,7 @@ a.arab-contact-method:hover {
     color: var(--text-color);
     background: var(--background-color);
     font-family: inherit;
-    font-size: 13px;
+    font-size: 16px;
     transition: var(--transition);
 }
 
@@ -5643,7 +5646,7 @@ a.arab-contact-method:hover {
     gap: 8px;
     margin: 5px 0 0;
     color: var(--muted-color);
-    font-size: 11px;
+    font-size: 14px;
     line-height: 1.8;
     text-align: center;
 }
@@ -5814,7 +5817,7 @@ a.arab-contact-method:hover {
 
 .arab-footer-logo-text small {
     color: var(--primary-color);
-    font-size: 12px;
+    font-size: 16px;
     font-weight: 700;
 }
 
@@ -5822,7 +5825,7 @@ a.arab-contact-method:hover {
     max-width: 350px;
     margin: 0 0 24px;
     color: rgba(255, 255, 255, 0.68);
-    font-size: 13px;
+    font-size: 16px;
     line-height: 2.1;
 }
 
@@ -5849,7 +5852,7 @@ a.arab-contact-method:hover {
 
 .arab-footer-whatsapp > i:last-child {
     margin-right: 5px;
-    font-size: 12px;
+    font-size: 16px;
     transition: transform 0.3s ease;
 }
 
@@ -5937,7 +5940,7 @@ a.arab-contact-method:hover {
     align-items: center;
     gap: 9px;
     color: rgba(255, 255, 255, 0.66);
-    font-size: 13px;
+    font-size: 16px;
     line-height: 1.8;
     text-decoration: none;
     transition: var(--transition);
@@ -6000,14 +6003,14 @@ a.arab-contact-method:hover {
     display: block;
     margin: 1px 0 6px;
     color: var(--white-color);
-    font-size: 13px;
+    font-size: 16px;
     font-weight: 800;
 }
 
 .arab-footer-contact-item p {
     margin: 0;
     color: rgba(255, 255, 255, 0.64);
-    font-size: 12px;
+    font-size: 16px;
     line-height: 1.9;
     overflow-wrap: anywhere;
 }
@@ -6050,7 +6053,7 @@ a.arab-contact-method:hover {
 .arab-footer-newsletter-content p {
     margin: 0;
     color: rgba(255, 255, 255, 0.67);
-    font-size: 12px;
+    font-size: 16px;
     line-height: 1.9;
 }
 
@@ -6064,7 +6067,7 @@ a.arab-contact-method:hover {
     border-radius: 12px;
     color: var(--dark-color);
     background: var(--primary-color);
-    font-size: 13px;
+    font-size: 15px;
     font-weight: 900;
     text-decoration: none;
     white-space: nowrap;
